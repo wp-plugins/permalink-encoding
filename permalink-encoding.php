@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Permalink Encoding 
-Plugin URI: http://www.freakcommander.de
+Plugin URI: http://www.freakcommander.de/4967/computer/wordpress/wp-plugin-permalink-encoding/
 Description: This plugin encodes NON-ASCII characters in pretty permalinks by using Percent-Encoding described in RFC3986.
 Version: 1.0
 Author: Christian Hops
-Author URI: http://www.freakcommander.de/4967/computer/wordpress/wp-plugin-permalink-encoding/
+Author URI: http://www.freakcommander.de
 License: GPL2
 */
 
